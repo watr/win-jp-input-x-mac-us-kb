@@ -1,2 +1,0 @@
-LWin::LCtrl
-RWin::RCtrl
